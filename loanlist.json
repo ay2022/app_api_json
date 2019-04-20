@@ -1,11 +1,126 @@
 {
-"title":"ahking17 of Computer Vision",
-"author":"ahking17",
-"average rating":"4",
-"# of ratings":"30",
-"list price":"39.99",
-"your price":"17",
-"targetid":"95043ce3562046da82e7e0798b6e9660",
-"thumburl":"https://github.com/AandK/mock_web_json/blob/master/puladuo2.jpg?raw=true",
-"bookurl":"https://developer.vuforia.com/samples/cloudreco/book2.html"
+    "code": 0,
+    "values": {
+        "data": {
+            "content": [
+                {
+                    "applyCondition": "1、18周岁以上；|2、实名注册手机号。",
+                    "bankUrl": "https://api.lianlianhua.wang/h5/register.html?id=e2f6920c-6805-4663-baa4-ea0994101bb1",
+                    "createTime": 1554982164000,
+                    "desc": "零门槛，极易秒下",
+                    "icon": "https://image.zelyy.cn/p_xajb56f8bcf315.png",
+                    "id": 1,
+                    "isDelete": 0,
+                    "isHot": 1,
+                    "lendingTime": 10,
+                    "loanAmountMax": 8000,
+                    "loanAmountMix": 1000,
+                    "monthlyRate": 0.02,
+                    "name": "东宝来-测试",
+                    "periodMax": 28,
+                    "periodMix": 28,
+                    "productDesc": "所需资料：实名认证，银行卡，通讯录上传。",
+                    "type": 2
+                },
+                {
+                    "applyCondition": "1、年龄18-55周岁；|2、需身份证；|3、注册手机号已使用满6个月，且实名认证；|4、学生除外。",
+                    "bankUrl": "https://yzj.tcredit.com/home/index?cid=SH057001",
+                    "createTime": 1511839112000,
+                    "desc": "大额秒批",
+                    "icon": "https://image.zelyy.cn/j_ffk6hd611c2c93.jpeg",
+                    "id": 19,
+                    "isDelete": 0,
+                    "isHot": 1,
+                    "lendingTime": 30,
+                    "loanAmountMax": 50000,
+                    "loanAmountMix": 2000,
+                    "monthlyRate": 0.02,
+                    "name": "优智借-测试",
+                    "periodMax": 360,
+                    "periodMix": 180,
+                    "productDesc": "1、贷款期限：6、9、12个月。|2、所需资料：手机号，身份证照片，运营商服务密码。|3、其他费用：无。|4、还款方式：银行卡代扣，主动还款。逾期费用每日收取借款本金的0.03%~0.05%|5、客服电话：4001812600",
+                    "type": 2
+                },
+                {
+                    "applyCondition": "1、年龄20-60周岁；|2、本人名下实名认证的手机号",
+                    "bankUrl": "https://wx.feidai.com/view/NewActivityDetail/ReceiveFriend.aspx?type=&phone=18611708881",
+                    "createTime": 1554981849000,
+                    "desc": "一次授信 终身使用",
+                    "icon": "https://image.zelyy.cn/p_8kqech404a3a2b.png",
+                    "id": 22,
+                    "isDelete": 0,
+                    "isHot": 1,
+                    "lendingTime": 3,
+                    "loanAmountMax": 300000,
+                    "loanAmountMix": 1000,
+                    "monthlyRate": 0.025,
+                    "name": "飞贷-测试",
+                    "periodMax": 720,
+                    "periodMix": 30,
+                    "productDesc": "1、先息后本方式：30/90天，每月仅支付利息，到期一次性归还本金，支持随借随还，支持部分或全额提前还款。\n▼风险定价，按日收0.025%-0.067%/天，以签约合同为准。\n▼管理费：0.99%/月，还款时收取。\n|2、等额本息方式：支持6期、9期、12期、18期、24期。\n▼综合息费：风险定价，按月收取0.88%-1.53%，以签约合同为准。\n▼管理费：2%-3.5%/笔，一次性收取。\n（6/9期-2%；12期-2.5%；18期-3%；24期-3.5%）。\n|3、所需资料：个人信息、资信情况，上传身份证照片，进行人脸识别。|4、客服电话：4008680680",
+                    "type": 2
+                },
+                {
+                    "applyCondition": "1、年龄20-40周岁；|2、需身手机号，身份证号，授权信息等；|3、暂时不覆盖新疆、青海、内蒙古、西藏地区的申请人，其他地区均可。",
+                    "bankUrl": "https://m.wolaidai.com/jddv3/login?v=1554202520442&schema=B&drainage=A&theme=classic&comp=",
+                    "createTime": 1508197208000,
+                    "desc": "门槛低 放款快 灵活借",
+                    "icon": "https://www.zelyy.cn/img/market/001.png",
+                    "id": 23,
+                    "isDelete": 0,
+                    "isHot": 1,
+                    "lendingTime": 3,
+                    "loanAmountMax": 50000,
+                    "loanAmountMix": 3000,
+                    "monthlyRate": 0.057,
+                    "name": "我来贷",
+                    "periodMax": 360,
+                    "periodMix": 180,
+                    "productDesc": "1、我来贷以“年轻人的口袋银行”为己任，为有资金需求的工薪白领用户提供3-12个月，3000-50000的借款服务。随时随地，手机申请简单，最快3分钟放款。|2、通过率10%。|3、客服电话：10100518",
+                    "type": 2
+                },
+                {
+                    "applyCondition": "1、适合年龄：22-55周岁；|2、月收入：税后不低于3000/月；|3、现居住地址居住时间：最低6个月；|4、城市：在申请地居住或工作；|5、职业不属于限制性行业。",
+                    "bankUrl": "http://8.rong66.com/daikuan/compass0516.html?sc=rydai",
+                    "createTime": 1555413210000,
+                    "desc": null,
+                    "icon": "https://image.zelyy.cn/p_9kb5z3946854a5.png",
+                    "id": 24,
+                    "isDelete": 0,
+                    "isHot": 1,
+                    "lendingTime": 30,
+                    "loanAmountMax": 500000,
+                    "loanAmountMix": 20000,
+                    "monthlyRate": 0.03,
+                    "name": "平安普惠 信用贷款",
+                    "periodMax": 1080,
+                    "periodMix": 360,
+                    "productDesc": "1、贷款期限：12、24、32个月。|2、费率收取方式：放款时扣息。|3、支持还款方式：主动还款、银行代扣。|4、支持提前还款，但不会减免费率。",
+                    "type": 0
+                }
+            ],
+            "first": true,
+            "last": true,
+            "number": 0,
+            "numberOfElements": 5,
+            "pageable": {
+                "offset": 0,
+                "pageNumber": 0,
+                "pageSize": 10,
+                "paged": true,
+                "sort": {
+                    "sorted": false,
+                    "unsorted": true
+                },
+                "unpaged": false
+            },
+            "size": 10,
+            "sort": {
+                "sorted": false,
+                "unsorted": true
+            },
+            "totalElements": 10,
+            "totalPages": 1
+        }
+    }
 }

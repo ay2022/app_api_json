@@ -78,31 +78,12 @@
                     "periodMix": 180,
                     "productDesc": "1、我来贷以“年轻人的口袋银行”为己任，为有资金需求的工薪白领用户提供3-12个月，3000-50000的借款服务。随时随地，手机申请简单，最快3分钟放款。|2、通过率10%。|3、客服电话：10100518",
                     "type": 2
-                },
-                {
-                    "applyCondition": "1、适合年龄：22-55周岁；|2、月收入：税后不低于3000/月；|3、现居住地址居住时间：最低6个月；|4、城市：在申请地居住或工作；|5、职业不属于限制性行业。",
-                    "bankUrl": "http://8.rong66.com/daikuan/compass0516.html?sc=rydai",
-                    "createTime": 1555413210000,
-                    "desc": null,
-                    "icon": "https://image.zelyy.cn/p_9kb5z3946854a5.png",
-                    "id": 24,
-                    "isDelete": 0,
-                    "isHot": 1,
-                    "lendingTime": 30,
-                    "loanAmountMax": 500000,
-                    "loanAmountMix": 20000,
-                    "monthlyRate": 0.03,
-                    "name": "平安普惠 信用贷款",
-                    "periodMax": 1080,
-                    "periodMix": 360,
-                    "productDesc": "1、贷款期限：12、24、32个月。|2、费率收取方式：放款时扣息。|3、支持还款方式：主动还款、银行代扣。|4、支持提前还款，但不会减免费率。",
-                    "type": 0
                 }
             ],
             "first": true,
             "last": true,
             "number": 0,
-            "numberOfElements": 5,
+            "numberOfElements": 4,
             "pageable": {
                 "offset": 0,
                 "pageNumber": 0,

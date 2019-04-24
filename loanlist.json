@@ -12,7 +12,7 @@
                     "id": 1,
                     "isDelete": 0,
                     "isHot": 1,
-                    "lendingTime": 10,
+                    "lendingTime": 2,
                     "loanAmountMax": 8000,
                     "loanAmountMix": 1000,
                     "monthlyRate": 0.02,

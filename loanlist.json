@@ -22,23 +22,23 @@
                     "productDesc": "所需资料：实名认证，银行卡，通讯录上传。",
                     "type": 2
                 },
-                {
-                    "applyCondition": "1、年龄18-55周岁；|2、需身份证；|3、注册手机号已使用满6个月，且实名认证；|4、学生除外。",
-                    "bankUrl": "https://yzj.tcredit.com/home/index?cid=SH057001",
+                  {
+                    "applyCondition": "芝麻分580以上，手机实名半年以上，通过率极高，审核快",
+                    "bankUrl": "http://dxw.so/ly9JAj",
                     "createTime": 1511839112000,
-                    "desc": "大额秒批",
+                    "desc": "通过率极高，审核快，即刻到账",
                     "icon": "https://image.zelyy.cn/j_ffk6hd611c2c93.jpeg",
                     "id": 19,
                     "isDelete": 0,
                     "isHot": 1,
-                    "lendingTime": 30,
-                    "loanAmountMax": 50000,
-                    "loanAmountMix": 2000,
-                    "monthlyRate": 0.02,
-                    "name": "优智借",
+                    "lendingTime": 1,
+                    "loanAmountMax": 20000,
+                    "loanAmountMix": 1000,
+                    "monthlyRate": 0.05,
+                    "name": "小熊无忧",
                     "periodMax": 360,
                     "periodMix": 180,
-                    "productDesc": "1、贷款期限：6、9、12个月。|2、所需资料：手机号，身份证照片，运营商服务密码。|3、其他费用：无。|4、还款方式：银行卡代扣，主动还款。逾期费用每日收取借款本金的0.03%~0.05%|5、客服电话：4001812600",
+                    "productDesc": "芝麻分580以上|手机实名6个月以上|20-55周岁",
                     "type": 2
                 },
                 {

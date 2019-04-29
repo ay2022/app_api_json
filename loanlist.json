@@ -22,25 +22,6 @@
                     "productDesc": "所需资料：实名认证，银行卡，通讯录上传。",
                     "type": 2
                 },
-                  {
-                    "applyCondition": "芝麻分580以上，手机实名半年以上，通过率极高，审核快",
-                    "bankUrl": "http://dxw.so/ly9JAj",
-                    "createTime": 1511839112000,
-                    "desc": "通过率极高，审核快，即刻到账",
-                    "icon": "https://image.zelyy.cn/p_gshetpfdef35fa.png",
-                    "id": 19,
-                    "isDelete": 0,
-                    "isHot": 1,
-                    "lendingTime": 1,
-                    "loanAmountMax": 20000,
-                    "loanAmountMix": 1000,
-                    "monthlyRate": 0.05,
-                    "name": "小熊无忧",
-                    "periodMax": 360,
-                    "periodMix": 180,
-                    "productDesc": "芝麻分580以上|手机实名6个月以上|20-55周岁",
-                    "type": 2
-                },
                 {
                     "applyCondition": "1、年龄20-40周岁；|2、需身手机号，身份证号，授权信息等；|3、暂时不覆盖新疆、青海、内蒙古、西藏地区的申请人，其他地区均可。",
                     "bankUrl": "https://m.wolaidai.com/jddv3/login?v=1554202520442&schema=B&drainage=A&theme=classic&comp=",

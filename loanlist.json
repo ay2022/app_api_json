@@ -40,6 +40,24 @@
                     "periodMix": 180,
                     "productDesc": "1、我来贷以“年轻人的口袋银行”为己任，为有资金需求的工薪白领用户提供3-12个月，3000-50000的借款服务。随时随地，手机申请简单，最快3分钟放款。|2、通过率10%。|3、客服电话：10100518",
                     "type": 2
+                },{
+                    "applyCondition":"1、18周岁以上；|2、实名注册手机号。",
+                    "bankUrl":"https://sxfapi.lianlianhua.wang/h5/register.html?id=67c92412-b5a8-4721-b60b-bdf1b7e392fc",
+                    "createTime":1554982164000,
+                    "desc":"零门槛，放款快，1分钟放款",
+                    "icon":"https://image.zelyy.cn/p_nn5zah1e548544.png",
+                    "id":22,
+                    "isDelete":0,
+                    "isHot":1,
+                    "lendingTime":10,
+                    "loanAmountMax":8000,
+                    "loanAmountMix":1000,
+                    "monthlyRate":0.02,
+                    "name":"闪信富",
+                    "periodMax":28,
+                    "periodMix":28,
+                    "productDesc":"所需资料：实名认证，银行卡，通讯录上传。",
+                    "type":1
                 }
             ],
             "first": true,
